@@ -9,4 +9,4 @@ GitGithub ucuncu gun ilk deneme
 GitGithub ucuncu gun ikinci deneme
 GitGithub ucuncu gun master branch
 GitGithub ucuncu gun Branch ilk dneme
-
+GitGithub ucuncu gun Branch ikinci dneme
